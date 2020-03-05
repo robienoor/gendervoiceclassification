@@ -5,7 +5,13 @@ A jupyter notebook containing code to build a voice classifier using a small dat
 ## Requirements
 
 Python 3 
+
+
 Scipy
+
 Noisereduce
+
 librosa
 
+## Results
+All of the experiment details including results can be found in the jupyter notebook
